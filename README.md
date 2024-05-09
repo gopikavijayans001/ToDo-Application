@@ -1,4 +1,4 @@
-# Todo Project
+# Todo Application
 
 This is a Todo project that allows users to create projects and add todo tasks for each project. Tasks can be marked as complete by clicking on the checkbox.
 
@@ -50,6 +50,3 @@ This is a Todo project that allows users to create projects and add todo tasks f
 
 Contributions are welcome! Please feel free to fork the repository and submit pull requests with your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
