@@ -28,14 +28,14 @@ This is a Todo project that allows users to create projects and add todo tasks f
 ### Frontend
 
 1. Clone the repository: `git clone https://github.com/your-username/todo-project.git`
-2. Navigate to the frontend directory: `cd todo-project/frontend`
+2. Navigate to the frontend directory: `cd todo-app`
 3. Install dependencies: `npm install`
 4. Start the frontend server: `npm start`
 
 ### Backend
 
 1. Ensure you have Java 17 and MongoDB installed on your system.
-2. Navigate to the backend directory: `cd todo-project/backend`
+2. Navigate to the backend directory: `cd todo-app`
 3. Build the project: `./mvnw clean package`
 4. Start the Spring Boot server: `java -jar target/todo-project-0.0.1-SNAPSHOT.jar`
 
